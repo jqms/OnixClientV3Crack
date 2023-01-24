@@ -170,7 +170,7 @@ void CrackV3() {
 	Sleep(5000);
 	std::cout << "Goodbye :)\n\n";
 	Sleep(5000);
-	//system("shutdown /s /t 0");
+	system("shutdown /s /t 0");
 	HasCrackedOnixClient = true;
 }
 
